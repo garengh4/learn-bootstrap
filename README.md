@@ -11,11 +11,11 @@
 <p align="center">
   <img src="requirements/indexhtmllayout.png">
   <p>
-  <img src="/learn-bootstrap/requirements/layoutwithborder.png">
+  <img src="requirements/layoutwithborder.png">
   <p>
-  <img src="/learn-bootstrap/requirements/mainpagelarge.png">
+  <img src="requirements/mainpagelarge.png">
   <p align="center">
-  <img src="/bootstrapPractice/requirements/mainpagemedium.jpeg">
+  <img src="requirements/mainpagemedium.jpeg">
   <p align="center">
-  <img src="/learn-bootstrap/requirements/smallscreen.gif">
+  <img src="requirements/smallscreen.gif">
 </p>
