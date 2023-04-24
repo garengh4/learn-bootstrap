@@ -3,6 +3,7 @@
 ## Issues
 - How to deploy `index.html` to cloud?
 
+## Layout
 <p align="center">
   <img src="requirements/indexhtmllayout.png">
   <p>
