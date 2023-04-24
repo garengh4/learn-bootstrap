@@ -1,13 +1,8 @@
-
-# About
 - Download Live Server extension on VSCode and open `index.html` with it
 
 ## Issues
 - How to deploy `index.html` to cloud?
 
--------------------------------------------------------------------------------------------------
-
-# Design Layout
 <p align="center">
   <img src="requirements/indexhtmllayout.png">
   <p>
