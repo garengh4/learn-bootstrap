@@ -9,7 +9,7 @@
 
 # Design Layout
 <p align="center">
-  <img src="/learn-bootstrap/requirements/indexhtmllayout.png">
+  <img src="requirements/indexhtmllayout.png">
   <p>
   <img src="/learn-bootstrap/requirements/layoutwithborder.png">
   <p>
