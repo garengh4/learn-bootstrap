@@ -1,6 +1,6 @@
 ## About
 - Install `live server` extension on VsCode and open `index.html` with it 
-- Everything in folder is to run html in node
+- Everything else in project is to run html in node with live-reload in browser
 
 ## Issues:
 - How to deploy `index.html` to cloud? Impossible.
