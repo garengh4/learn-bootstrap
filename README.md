@@ -1,7 +1,9 @@
+## About
+- Install `live server` extension on VsCode and open `index.html` with it 
+- Everything in folder is to run html in node
 
 ## Issues:
-- How to deploy `index.html` to cloud?
-- Install `live server` extension on VsCode and open `index.html` with it 
+- How to deploy `index.html` to cloud? Impossible.
 
 ## Bootstrap Grid System
 - In bootstrap we devide into grid system: divide width into 12 columns because it is divisible by 2,3,4,6
