@@ -21,7 +21,7 @@
 - `form-control` class takes 100% of the space available and all other elements are above or below it. Default padding, shadows etc.
 - checkboxes and radio button do NOT use `form-control` but instead use `form-check-input`, `form-check-label`, `form-check` on the div that groups the label and the input together
 
-## Border, Margin, and Padding:
+## Border, Margin and Padding
 - Can be individually controlled for each of the 4 sides of a box
 - 4 sides of box in CSS direction (clockwise direction): top, right (`end`), bottom, left (`start`)
 - To be specific to one of the sides, add `-sideName` to the classes (e.g. border-top, margin-bottom, padding-left)
